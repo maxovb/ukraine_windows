@@ -24,8 +24,6 @@ Examples of current solutions can be seen here (add link to Harry's pdf).
 
 You are more than welcome to fork on any of the current solutions if you think you have specific improvments on their designs.
 
-If you would like more information on the problem and thoughts on your proposed solution reach out to us with some suggested times (30 min slots): hcbh96 (at) gmail.com 
-
 ## Requirements
 
 - Insulating (as good as or close to double glazing insulation)
