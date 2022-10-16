@@ -57,29 +57,9 @@ All terminal commands listed below should be run in the same folder (the folder 
    ```
    git clone https://github.com/maxovb/ukraine_windows.git
    ``` 
-2. Create a new branch. Replace `<name_of_your_solution>` in the code below by the name of your solution and replacing spaces ` ` with underscores `_`. In terminal run:
-   ```
-   git checkout -b <name_of_your_solution>
-   ```
-3. Upload this new branch to github. In terminal run:
-   ```
-   git push –set-upstream origin <name_of_your_solution>
-   ```
-4. In the `ukraine_windows` folder that you downloaded in step 1, create a new folder `<name_of_your_solution>`. Add your pdf files and any other additional files in this folder.
-5. In terminal run:
+2. In the `ukraine_windows` folder that you downloaded in step 1, create a new folder `<name_of_your_solution>`. Add your pdf files and any other additional files in this folder.
+3. In terminal run:
    1. ```git add <name_of_your_solution>```
    2. ```git commit -m "<name_of_the_solution>,<list_of_contributors>"```
    3. ```git push```
-6. Create a pull-request for this new branch:
-   1. On this webpage, click on "Pull requests"
-   2. Click on "New pull request"
-   3. Leave the first box as ```base:main``` and change the second one to ```<name_of_your_solution```.
-   4. Click on "Create pull request"
-   5. Add any comments you would like to add and click "Create pull request" once again.
 All done ! Thank you for submitting your solution through git!
-
-
-
-
-
-
