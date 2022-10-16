@@ -43,7 +43,8 @@ You are more than welcome to fork on any of the current solutions if you think y
 ## Benefits
 Teams and creators of each solution will be named alongside the solutions they provide. We will look as much as possible to highlight the team and individuals who worked on the solution.
 
-## How to use git
+## How to use git
+Apologies, this section still needs to be written.
 
 ## Instructions to submit with Git
 
