@@ -3,7 +3,7 @@
 Sharespace for emergency solutions to replace windows blown out by the war in Ukraine
 
 ## Submission
-The solution should be submitted as a pdf file (max 10mb) with a written set of instructions and pictures. We will request Youtube videos from the most successfull solutions once the beta-testers have evaluated them.
+Solution should be submitted as a pdf file (max 10mb) with a written set of instructions and pictures. We will request Youtube videos from the most successfull solutions once the beta-testers have evaluated them.
 
 If possible, use Git to submit your solution, see the detailed instructions at the bottom of this page. If this is not possible, use this google form: https://forms.gle/hxd8z6jKdvMSpaW29.
 
